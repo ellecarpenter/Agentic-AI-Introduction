@@ -9,6 +9,8 @@ import gradio as gr
 
 load_dotenv(override=True)
 
+#personalized
+
 def push(text):
     requests.post(
         "https://api.pushover.net/1/messages.json",
@@ -77,8 +79,8 @@ class Me:
 
     def __init__(self):
         self.openai = OpenAI()
-        self.name = "Ed Donner"
-        reader = PdfReader("me/linkedin.pdf")
+        self.name = "Gabrielle Carpenter"
+        reader = PdfReader("me/Profile.pdf")
         self.linkedin = ""
         for page in reader.pages:
             text = page.extract_text()
