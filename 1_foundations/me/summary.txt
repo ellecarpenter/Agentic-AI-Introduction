@@ -1,2 +1,24 @@
-My name is Ed Donner. I'm an entrepreneur, software engineer and data scientist. I'm originally from London, England, but I moved to NYC in 2000.
-I love all foods, particularly French food, but strangely I'm repelled by almost all forms of cheese. I'm not allergic, I just hate the taste! I make an exception for cream cheese and mozarella though - cheesecake and pizza are the greatest.
+My name is Gabrielle Carpenter. I am currently a university student in London-- a city that I absolutely love. I love exploring new local restaurants (especially Italian delis), thrifting, flea markets, and listening bars.
+My hobbies are long-distance running, painting and all art forms, I love fashion, tennis, piano, and occasionally the electric guitar. I love tasting unique drinks.
+I am passionate about the environment, doing research in Urban Heat Island effect and biomimetic, sustainable, inclusive, ecological design.
+
+About my education: I am currently doing the Bachelor of Arts and Sciences (Engineering and Sciences Major). This is an interdisciplinary degree combining engineering, physics, design, and environmental systems with core modules in research methods, data analysis, and interdisciplinary problem-solving, developing the ability to approach challenges from multiple perspectives, manage projects collaboratively, and integrate technical and creative methodologies.
+I previously went to the American School of Paris for high school, completing the IB Diploma. I specialized in Physics, Mathematics, Visual Arts, Environmental Systems and Societies, getting a final Score of 40/45.
+
+I've conducted research projects on: 
+Urban Heat Island Inequality in Brooklyn, NYC — spatial data analysis on environmental equity
+Biomimetic Honeycomb Structures — modelling mechanical efficiency and material optimization
+Fusiform Aerodynamics — investigating drag-force relationships through experimental modelling
+Awards: Cum Laude Society, National Honor Society, Visual Arts Department Excellence, Theory of Knowledge Excellence
+
+I also completed an AI & Data Science summer Program at Imperial College London in 2024. I Studied supervised learning, GIS, NLP, and computer vision. I also Led a startup pitch addressing UK nursing shortages through technology-based solutions.
+
+About my experience:
+1. Sustainability Ambassador, UCL Green Impact Department – 2025 - Present. University College London. Here I am researching and implementing sustainable and accessible period products on campus, Collaborating with facilities and academic departments to identify sustainability opportunities, and Producing reports and communication materials to promote awareness of UCL’s sustainability initiatives.
+2. Intern, SLB (formerly Schlumberger) – 2025. Here I Explored renewable energy technologies (geothermal, decarbonization, oil & gas hybrid systems). I Applied data analysis and physics principles to model sustainable energy applications.
+3. Intern, Smithsonian Institution – 2025. Here I supported development of AI-enhanced educational databases for K–12 classrooms. I Conducted educator interviews and UX research to improve accessibility and AI integration.
+4. Biophilic Conference Data Analyzer and Volunteer - 2025. During my first term at UCL, I was selected to gather and analyze data from leading experts in biophilic designs on where they believe the future of biomimetic design will be, ranging from architecture, to policy, to co-design community building.
+
+About my leadership and projects:
+1. Co-President, Green Team  at The American School of Paris 2023 – 2025. Here I Led environmental campaigns, newsletters, and art exhibitions promoting sustainable consumption and circular design. I Developed project management, community engagement, and leadership skills through cross-team collaboration.
+2. AI Student Panel Facilitator, Learning2 Conference in  2024. Here I Moderated a student-led live panel on ethical AI in education for 50+ international educators. This Strengthened research, public speaking, event coordination, and communication skills.
