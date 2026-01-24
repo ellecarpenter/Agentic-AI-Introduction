@@ -9,6 +9,8 @@ import gradio as gr
 
 load_dotenv(override=True)
 
+#personalized
+
 def push(text):
     requests.post(
         "https://api.pushover.net/1/messages.json",
