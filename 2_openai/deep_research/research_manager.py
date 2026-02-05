@@ -9,7 +9,7 @@ class ResearchManager:
 
     async def run(self, query: str):
         """ Run the deep research process, yielding the status updates and the final report"""
-        trace_id = gen_trace_id()
+        trace_id = gen_trace_id() #generates tracking ID and yields link to view it on OpenAI's platform
         with trace("Research trace", trace_id=trace_id):
             print(f"View trace: https://platform.openai.com/traces/trace?trace_id={trace_id}")
             yield f"View trace: https://platform.openai.com/traces/trace?trace_id={trace_id}"
