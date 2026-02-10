@@ -29,6 +29,6 @@ analysis_task:
     findings with added analysis and insights. The report should be well-structured
     with an executive summary, main sections, and conclusion.
   agent: analyst
-  context:
+  context: #this ensures that output from research_task is considered fpr the analysis_task
     - research_task
   output_file: output/report.md
